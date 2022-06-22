@@ -1,0 +1,104 @@
+
+/*** Body ***/
+
+body {
+    background-color: #293462;
+}
+
+
+/*** Main ***/
+
+#title {
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    background-color: #F24C4C   ;
+    color: white;
+    border-radius: 5px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+#description {
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+}
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+
+#img-caption {
+    margin: 10px;
+    padding: 10px;
+    background-color: #EC9B3B;
+    text-align: center;
+    font-size: 22px;
+}
+
+/*** Inicios ***/
+
+#tribute-info {
+    margin: 50px;
+}
+
+#inicios {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: white;
+    font-size: 40px;
+}
+
+#tribute-info p {
+    color: white;
+    font-size: 20px;
+}
+
+li {
+    color: white;
+    font-size: 20px;
+}
+
+h4 {
+    color: white;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: #EC9B3B;
+    text-transform: capitalize;
+}
+
+/*** Fuentes ***/
+
+section {
+    font-size: 20px;
+}
+
+/*** FOOTER ***/
+
+h5 {
+    color: #F24C4C;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+}
+
+
